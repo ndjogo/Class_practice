@@ -1,2 +1,2 @@
-# Class_practice
-creating classes 
+# Python Data Structures 
+Practice with different data structures in python. 
